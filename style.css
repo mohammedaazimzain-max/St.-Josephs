@@ -10,7 +10,7 @@ text-decoration: wavy;
 font-family: sans-serif;}    
 #peppa{align-self: flex-end;}
 #git{align-content:end; height: 1cm}        
-.centralize{display: flex; justify-content: center;}
+.centralize{display: flex; justify-content: right-end;}
 #erstengedicht{align-content: end;}
 .finale{align-content:inline;}
 #bring{align-content: end;}
