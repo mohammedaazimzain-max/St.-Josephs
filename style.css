@@ -13,6 +13,7 @@ font-family: sans-serif;}
 .cen{display: flex; justify-content: center}
 .centralize{display: flex; justify-content: right;}
 .centralize1{display: flex; justify-content: left;}
-#erstengedicht{align-content: end;}
+#erstengedicht{align-content: end;
+              text-align:left;}
 .finale{align-content:inline;}
 #bring{align-content: end;}
